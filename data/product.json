@@ -1,0 +1,100 @@
+{
+  "product": [
+    {
+      "name": "Alternator",
+      "category": "Electrical",
+      "price": 150.99,
+      "description": "A high-quality alternator for reliable power generation in your vehicle.",
+      "reference": "CAR-ELEC-001",
+      "photo": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    },
+    {
+      "name": "Brake Pads",
+      "category": "Mechanical",
+      "price": 45.99,
+      "description": "Durable brake pads for enhanced stopping power and safety.",
+      "reference": "CAR-MECH-001",
+      "photo": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    },
+    {
+      "name": "Car Battery",
+      "category": "Electrical",
+      "price": 120.99,
+      "description": "A long-lasting car battery with high cold cranking amps.",
+      "reference": "CAR-ELEC-002",
+      "photo": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    },
+    {
+      "name": "Spark Plugs",
+      "category": "Electrical",
+      "price": 25.99,
+      "description": "High-performance spark plugs for efficient combustion and power.",
+      "reference": "CAR-ELEC-003",
+      "photo": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    },
+    {
+      "name": "Oil Filter",
+      "category": "Mechanical",
+      "price": 15.99,
+      "description": "Premium oil filter for enhanced engine protection and longevity.",
+      "reference": "CAR-MECH-002",
+      "photo": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    },
+    {
+      "name": "Fuel Pump",
+      "category": "Mechanical",
+      "price": 85.99,
+      "description": "A reliable fuel pump to ensure efficient fuel delivery to your engine.",
+      "reference": "CAR-MECH-003",
+      "photo": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    },
+    {
+      "name": "Starter Motor",
+      "category": "Electrical",
+      "price": 145.99,
+      "description": "High-torque starter motor for quick and reliable engine starts.",
+      "reference": "CAR-ELEC-004",
+      "photo": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    },
+    {
+      "name": "Timing Belt",
+      "category": "Mechanical",
+      "price": 60.99,
+      "description": "Durable timing belt for precise engine timing and performance.",
+      "reference": "CAR-MECH-004",
+      "photo": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    },
+    {
+      "name": "Headlight Assembly",
+      "category": "Electrical",
+      "price": 75.99,
+      "description": "Bright and durable headlight assembly for improved nighttime visibility.",
+      "reference": "CAR-ELEC-005",
+      "photo": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    },
+    {
+      "name": "Radiator",
+      "category": "Mechanical",
+      "price": 130.99,
+      "description": "Efficient radiator to keep your engine cool under all conditions.",
+      "reference": "CAR-MECH-005",
+      "photo": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    },
+    {
+      "name": "Ignition Coil",
+      "category": "Electrical",
+      "price": 55.99,
+      "description": "High-performance ignition coil for reliable ignition system performance.",
+      "reference": "CAR-ELEC-006",
+      "photo": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    },
+    {
+      "name": "Shock Absorbers",
+      "category": "Mechanical",
+      "price": 110.99,
+      "description": "High-quality shock absorbers for a smooth and comfortable ride.",
+      "reference": "CAR-MECH-006",
+      "photo": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg"
+    }
+  ]
+}
